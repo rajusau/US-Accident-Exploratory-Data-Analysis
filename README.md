@@ -1,7 +1,9 @@
 # US-Accident-Exploratory-Data-Analysis
 Advanced Exploratory Data Analysis Using Python  
-for analysis we used python pandas and numpy
-for visualization use matplotlib and seaborn
+
+For analysis we used python pandas and numpy
+
+For visualization use matplotlib and seaborn
 
 
 [Here is the link of the dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data).
